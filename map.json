@@ -76,7 +76,7 @@
          "height":41,
          "id":17,
          "name":"kitchen",
-         "opacity":0,
+         "opacity":0.65,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -154,42 +154,7 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[
-                {
-                 "height":19,
-                 "id":3,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Chill Out Area",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":145.375,
-                 "x":551.8125,
-                 "y":873.5
-                }, 
-                {
-                 "height":19,
-                 "id":4,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "fontfamily":"Sans Serif",
-                     "pixelsize":14,
-                     "text":"https:\/\/meet.rshc.de\/office-map-meeting-room",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":335.375,
-                 "x":31.8125,
-                 "y":809.5
-                }],
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
