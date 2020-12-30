@@ -62,7 +62,7 @@
          "height":41,
          "id":15,
          "name":"meeting-room",
-         "opacity":0.4,
+         "opacity":0.14,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -104,7 +104,7 @@
          "height":41,
          "id":16,
          "name":"chill-zone",
-         "opacity":0.28,
+         "opacity":0.1,
          "properties":[
                 {
                  "name":"jitsiRoom",
@@ -125,7 +125,7 @@
          "name":"kitchen",
          "offsetx":126,
          "offsety":-512,
-         "opacity":0.28,
+         "opacity":0.18,
          "properties":[
                 {
                  "name":"jitsiRoom",
