@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"confluence.ops.expertcity.com"
+                 "value":"https:\/\/confluence.ops.expertcity.com"
                 }],
          "type":"tilelayer",
          "visible":true,
