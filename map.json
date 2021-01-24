@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openWindow",
                  "type":"string",
                  "value":"https:\/\/app.gotomeeting.com\/?meetingId=338541077 "
                 }],
@@ -207,7 +207,7 @@
  "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {
