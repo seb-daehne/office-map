@@ -113,9 +113,9 @@
          "opacity":0.14,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWindow",
                  "type":"string",
-                 "value":"office-map-meeting-room-freiberg"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=363287517 "
                 }],
          "tintcolor":"#ffffff",
          "type":"tilelayer",
