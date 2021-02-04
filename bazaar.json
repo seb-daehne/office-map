@@ -43,7 +43,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/407738405"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=407738405"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/781401125"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=781401125"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/277571133"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=277571133"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/935909005"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=935909005"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/757945445"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=757945445"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/192635125"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=192635125"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/624784437"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=624784437"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWindow",
                  "type":"string",
-                 "value":"https:\/\/global.gotomeeting.com\/join\/682528733"
+                 "value":"https:\/\/app.gotomeeting.com\/?meetingId=682528733"
                 }],
          "type":"tilelayer",
          "visible":true,
